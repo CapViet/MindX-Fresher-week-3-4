@@ -6,7 +6,7 @@ It covers structured ticket handling, professional communication, and data-drive
 
 ---
 
-## 📅 Week 3 – Ticket Handling & Support Workflow
+## Week 3 – Ticket Handling & Support Workflow
 
 Focus:
 - Applying the 7-step support framework
@@ -49,7 +49,7 @@ Deliverables include:
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - Odoo Helpdesk  
 - Markdown documentation  
@@ -57,7 +57,7 @@ Deliverables include:
 
 ---
 
-## 🎯 Key Outcomes
+## Key Outcomes
 
 - Structured ticket lifecycle management  
 - Clear and professional support communication  
