@@ -9,6 +9,7 @@
 - Class of Service: Standard
 - Priority: Low (Single user affected)
 - Channel: Email
+- Tags: LMS, Login, Standard
 
 ---
 
