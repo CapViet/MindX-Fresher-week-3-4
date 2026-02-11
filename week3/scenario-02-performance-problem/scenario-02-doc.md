@@ -131,7 +131,6 @@ Database connection pool saturation during peak load caused system performance d
 ### Closure
 ![Closure](screenshots/closure.png)
 
-## Odoo Reference
+## Odoo Ticket Link
 
-Ticket ID: #00002  
-(Odoo training environment link submitted as required.)
+[View Ticket #00002 on Odoo](https://mindx4.odoo.com/mail/view?model=helpdesk.ticket&res_id=2&access_token=4b5d59bb-5e01-4043-b546-68fa32f78d7d)
