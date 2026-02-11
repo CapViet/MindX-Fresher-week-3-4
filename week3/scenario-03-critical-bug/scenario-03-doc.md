@@ -192,4 +192,4 @@ This scenario demonstrates:
 
 ## Odoo Ticket Link
 
-[View Ticket #00003 on Odoo](PASTE_YOUR_REAL_LINK_HERE)
+[View Ticket #00003 on Odoo](https://mindx4.odoo.com/mail/view?model=helpdesk.ticket&res_id=3&access_token=b301d1c4-be0e-4428-ba46-3cd737221f6b)
