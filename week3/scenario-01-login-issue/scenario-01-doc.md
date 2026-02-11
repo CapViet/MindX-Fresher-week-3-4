@@ -89,8 +89,11 @@ Recommendation:
 ### Diagnosis & Analysis Log
 ![Diagnosis & Analysis](screenshots/diagnosis-analysis.png)
 
-### Resolution & Closure
-![Resolution & Closure](screenshots/resolution-closure.png)
+### Resolution 
+![Resolution](screenshots/resolution.png)
+
+### Closure
+![Closure](screenshots/closure.png)
 
 ## Odoo Ticket Link
 
