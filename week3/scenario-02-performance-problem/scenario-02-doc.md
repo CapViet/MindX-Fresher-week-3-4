@@ -23,9 +23,7 @@ The issue disrupted assignment submissions and lesson navigation.
 
 Reported at 14:00 during an active class.
 
----
-
-## 3. Business Impact
+### Business Impact:
 
 - 15 users affected simultaneously  
 - Live class disruption  
@@ -36,7 +34,7 @@ This ticket was classified as **Priority** due to multi-user impact during live 
 
 ---
 
-## 4. Initial Response
+## 3. Initial Response
 
 An acknowledgement email was sent within 15 minutes confirming:
 
@@ -47,7 +45,7 @@ An acknowledgement email was sent within 15 minutes confirming:
 
 ---
 
-## 5. Investigation & Findings
+## 4. Investigation & Findings
 
 Internal monitoring and log review (simulation):
 
@@ -62,7 +60,7 @@ Likely database performance issue under peak load specific to WEB101-HN-2024.
 
 ---
 
-## 6. Escalation
+## 5. Escalation
 
 Since the issue involved infrastructure/database performance outside support configuration scope, it was escalated to the Dev Team.
 
@@ -78,7 +76,7 @@ Support remained communication owner throughout the incident.
 
 ---
 
-## 7. Resolution
+## 6. Resolution
 
 Dev Team applied database configuration adjustments.
 
@@ -94,13 +92,13 @@ Ticket marked as **Solved**.
 
 ---
 
-## 8. Root Cause
+## 7. Root Cause
 
 Database connection pool saturation during peak load caused system performance degradation for the affected class.
 
 ---
 
-## 9. Preventive Recommendation
+## 8. Preventive Recommendation
 
 - Monitor database connection utilization during peak hours  
 - Consider connection pool scaling policies  
@@ -108,7 +106,7 @@ Database connection pool saturation during peak load caused system performance d
 
 ---
 
-## 10. Screenshots
+## 9. Screenshots
 
 ### Ticket Header
 ![Ticket Header](screenshots/ticket-header.png)
