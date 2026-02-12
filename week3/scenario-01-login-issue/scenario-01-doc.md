@@ -18,7 +18,7 @@
 Teacher Nguyễn Văn A reported being unable to log in to the LMS system.
 Error message displayed: **"Invalid username or password"**.
 
-Business Impact:
+### Business Impact:
 The teacher required access to LMS materials for a scheduled class on the same day.
 
 ---
