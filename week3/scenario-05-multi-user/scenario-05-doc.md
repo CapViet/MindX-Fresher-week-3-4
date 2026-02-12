@@ -25,7 +25,7 @@ Within a 20-minute window, three separate tickets were received reporting that t
 - Issue persists even after switching networks (WiFi → 4G)
 - Affects both desktop (Chrome 120+) and mobile devices (iOS Safari / Android Chrome)
 
-## Business Impact:
+### Business Impact:
 
 - 12 students unable to access learning content
 - Active class session potentially disrupted
