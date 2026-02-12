@@ -88,7 +88,7 @@ Post-fix verification:
 
 Customer confirmed system stability.
 
-Ticket marked as **Solved**.
+Ticket status updated as **Solved**.
 
 ---
 
