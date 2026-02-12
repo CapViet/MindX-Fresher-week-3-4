@@ -177,5 +177,5 @@ Recommendation:
 
 ## Odoo Ticket Link
 
-[View Master Ticket #00005 on Odoo](https://mindx4.odoo.com/)
+[View Master Ticket #00005 on Odoo](https://mindx4.odoo.com/mail/view?model=helpdesk.ticket&res_id=5&access_token=7a7ab35c-bd5b-40a8-a78d-945292b1f815)
 
