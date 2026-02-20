@@ -2,7 +2,7 @@
 
 ## 1. Ticket Information
 
-- Ticket ID: #00001
+- Ticket ID: #00012
 - Customer: Nguyễn Văn A (Teacher)
 - Helpdesk Team: Technical Support
 - Assigned To: Trung Nguyễn
@@ -98,4 +98,4 @@ Recommendation:
 
 ## Odoo Ticket Link
 
-[View Ticket #00001 on Odoo](https://mindx4.odoo.com/mail/view?model=helpdesk.ticket&res_id=1&access_token=1f655637-fbc7-4da0-8216-31d8a7bf78d9)
+[View Ticket #00012 on Odoo](https://mindx4.odoo.com/mail/view?model=helpdesk.ticket&res_id=12&access_token=09b3a3a4-9b20-40a7-b23c-d3f35810d7f6)
