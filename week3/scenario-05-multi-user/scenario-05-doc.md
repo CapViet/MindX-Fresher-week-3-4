@@ -2,8 +2,8 @@
 
 ## 1. Ticket Information
 
-- Ticket ID: #00005 (Master Ticket)
-- Related Tickets: #00006, #00007 (Marked as Duplicate)
+- Ticket ID: #00013 (Master Ticket)
+- Related Tickets: #00014, #00015 (Marked as Duplicate)
 - Customer: CXO – Advanced JavaScript (JS-ADV-HN-2412)
 - Helpdesk Team: Technical Support
 - Assigned To: Trung Nguyễn
@@ -177,5 +177,5 @@ Recommendation:
 
 ## Odoo Ticket Link
 
-[View Master Ticket #00005 on Odoo](https://mindx4.odoo.com/mail/view?model=helpdesk.ticket&res_id=5&access_token=7a7ab35c-bd5b-40a8-a78d-945292b1f815)
+[View Master Ticket #00013 on Odoo](https://mindx4.odoo.com/mail/view?model=helpdesk.ticket&res_id=13&access_token=c1702633-b7d6-4e3a-84c9-99975da463a6)
 
