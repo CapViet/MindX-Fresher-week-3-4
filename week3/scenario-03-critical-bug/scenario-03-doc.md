@@ -4,7 +4,7 @@
 
 ## 1. Ticket Information
 
-- Ticket ID: #00003  
+- Ticket ID: #00017  
 - Customer: CXO – Khối 18+ Nguyễn Chí Thanh Campus  
 - Helpdesk Team: Technical Support  
 - Assigned To: Trung Nguyễn  
@@ -192,4 +192,4 @@ This scenario demonstrates:
 
 ## Odoo Ticket Link
 
-[View Ticket #00003 on Odoo](https://mindx4.odoo.com/mail/view?model=helpdesk.ticket&res_id=3&access_token=b301d1c4-be0e-4428-ba46-3cd737221f6b)
+[View Ticket #00017 on Odoo](https://mindx4.odoo.com/mail/view?model=helpdesk.ticket&res_id=17&access_token=db685be6-41b7-4d9a-8db3-a5c7436a9e6e)
