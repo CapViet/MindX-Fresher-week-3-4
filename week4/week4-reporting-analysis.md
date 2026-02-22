@@ -15,7 +15,6 @@ Six documented ticket scenarios were analyzed, covering:
 
 This report consolidates those findings into a structured operational assessment.
 
----
 
 # 2. Reporting & Dashboard Framework
 
@@ -41,7 +40,6 @@ These metrics provide visibility into:
 
 The dashboard enables continuous monitoring and supports data-driven decision-making.
 
----
 
 # 3. Ticket Portfolio Overview
 
@@ -58,7 +56,6 @@ The analyzed scenarios represent a diverse operational landscape:
 
 This distribution demonstrates exposure to technical, infrastructure, governance, and product-level challenges.
 
----
 
 # 4. Recurring Operational Patterns
 
@@ -76,21 +73,15 @@ One case escalated to an executive-level incident involving 50+ students during 
 
 This cluster represents the most significant systemic vulnerability identified.
 
----
-
 ## 4.2 CDN & Content Configuration Risk
 
 A multi-user video playback issue was traced to an expired signed URL and cache misconfiguration. Although localized to one lesson, it affected multiple users simultaneously.
 
 This highlights configuration governance risks between the LMS platform and CDN infrastructure.
 
----
-
 ## 4.3 Credential & User Configuration Issues
 
 A login failure caused by an expired password represents a low-severity but recurring category of support workload. While operationally minor, such cases accumulate and can be reduced through preventive mechanisms.
-
----
 
 ## 4.4 Reporting Governance & Scope Risk
 
@@ -101,8 +92,6 @@ An executive-level enrollment reporting request introduced risks related to:
 * Non-negotiable deadline pressure
 
 Structured scope clarification mitigated delivery risk and ensured on-time completion.
-
----
 
 # 5. Incident Lifecycle Evaluation
 
@@ -146,8 +135,6 @@ When grouped by root cause rather than ticket label, the incidents fall into fiv
 
 This clustering approach provides deeper insight into systemic weaknesses and improvement priorities.
 
----
-
 # 7. Strategic Improvement Areas
 
 ## 7.1 Infrastructure Stability
@@ -161,7 +148,6 @@ Recommended actions:
 
 Objective: Reduce probability of multi-user or system-wide outages.
 
----
 
 ## 7.2 CDN & Media Governance
 
@@ -173,7 +159,6 @@ Recommended actions:
 
 Objective: Prevent lesson-level disruptions.
 
----
 
 ## 7.3 Credential Self-Service Optimization
 
@@ -184,7 +169,6 @@ Recommended actions:
 
 Objective: Reduce recurring low-severity login tickets.
 
----
 
 ## 7.4 Reporting Standardization
 
@@ -196,7 +180,6 @@ Recommended actions:
 
 Objective: Reduce clarification cycles and deadline-related operational risk.
 
----
 
 # 8. Maturity Assessment
 
@@ -210,7 +193,6 @@ Objective: Reduce clarification cycles and deadline-related operational risk.
 
 Operational handling demonstrates maturity in resolution and communication. The primary improvement opportunity lies in strengthening preventive controls.
 
----
 
 # 9. Conclusion
 
@@ -221,6 +203,4 @@ The most significant systemic risk identified is infrastructure-level instabilit
 By implementing preventive monitoring, governance improvements, and reporting standardization, the organization can reduce multi-user disruption risk and strengthen overall system reliability.
 
 This analytical framework provides a foundation for continuous operational improvement and proactive service management.
-
----
 
