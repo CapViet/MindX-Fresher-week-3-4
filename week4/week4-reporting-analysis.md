@@ -21,8 +21,7 @@ This report consolidates those findings into a structured operational assessment
 
 A dashboard was developed using Odoo reporting and spreadsheet tools to convert raw ticket activity into measurable operational indicators.
 
-## Link: 
-[dashboard](https://mindx4.odoo.com/dashboard/share/3/b4ed9957-c084-411d-8240-a791f1537616)
+# Link: [dashboard](https://mindx4.odoo.com/dashboard/share/3/b4ed9957-c084-411d-8240-a791f1537616)
 
 ### Core Metrics Tracked
 
