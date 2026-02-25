@@ -31,15 +31,15 @@ This report documents analytical findings and proposes a structured action plan 
 
 To ensure a systematic approach to performance evaluation and problem identification, tickets were analyzed across three structured dimensions:
 
-### 1️⃣ Lifecycle Metrics
+### 1 Lifecycle Metrics
 
 Tickets were evaluated by stage (New, In Progress, Solved, Cancelled) to assess throughput efficiency and backlog health.
 
-### 2️⃣ Priority Metrics
+### 2 Priority Metrics
 
 Tickets were segmented by urgency to evaluate escalation handling, response effectiveness, and risk exposure.
 
-### 3️⃣ Operational Category Analysis
+### 3 Operational Category Analysis
 
 Individual tags were strategically grouped into functional domains representing system areas and business workflows:
 
