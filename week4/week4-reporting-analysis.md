@@ -2,8 +2,11 @@
 # Week 4 – Helpdesk Performance Analysis & Operational Improvement Plan
 
 **Total Tickets Analyzed:** 131
+
 **Analysis Scope:** Ticket Lifecycle, Priority Handling, Operational Categories
+
 **Tool Used:** Odoo Helpdesk Dashboard & Reporting
+
 **[Dashboard](https://mindx3.odoo.com/dashboard/share/1/06e5ebb6-d3df-4b03-9413-d245ec0c1d4d)**
 
 ---
