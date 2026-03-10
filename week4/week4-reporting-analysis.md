@@ -41,7 +41,7 @@ Tickets were segmented by urgency to evaluate escalation handling, response effe
 
 ### 3 Operational Category Analysis
 
-Individual tags were strategically grouped into functional domains representing system areas and business workflows:
+Individual tags were grouped into functional domains representing system areas and business workflows:
 
 * LMS & Enrollment
 * CRM
@@ -52,8 +52,6 @@ Individual tags were strategically grouped into functional domains representing 
 * Communication
 * System / Bug
 * Uncategorized
-
-This structured categorization enabled deeper insight into recurring patterns and operational concentration beyond simple ticket counts.
 
 ---
 
@@ -158,7 +156,7 @@ While not customer-facing, repeated issues may impact internal productivity and 
 
 # 6. System Health Assessment
 
-Based on the dashboard metrics:
+Based on the metrics:
 
 * Resolution rate is high
 * Backlog is controlled
@@ -167,7 +165,7 @@ Based on the dashboard metrics:
 
 The helpdesk environment is operationally stable. The primary opportunity lies not in incident control but in structural workflow simplification.
 
-This reflects strong reactive capability with room for preventive improvement.
+This reflects a reactive capability with room for preventive improvement.
 
 ---
 
@@ -260,7 +258,7 @@ Lower ticket volume caused by workflow inconsistencies.
 
 The analysis of 131 helpdesk tickets provides a clear view of operational performance and workload distribution. Overall, the helpdesk demonstrates strong resolution capability, effective priority management, and stable ticket flow with minimal backlog accumulation.
 
-The data shows that most support demand is driven not by system instability, but by workflow complexity—particularly within Enrollment and CRM processes. These recurring patterns highlight areas where structural refinements and automation can meaningfully reduce operational friction.
+The data shows that most support demand is driven not by system instability, but by workflow complexity, particularly within Enrollment and CRM processes. These recurring patterns highlight areas where structural refinements and automation can meaningfully reduce operational friction.
 
 By leveraging dashboard analytics and structured categorization, this analysis moves beyond simple reporting and supports informed decision-making. With targeted process improvements and preventive monitoring in place, the helpdesk can shift further from reactive resolution toward proactive operational optimization.
 
